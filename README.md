@@ -1,2 +1,3 @@
 # hello-world
-Add thingums to readme.md 
+Adding edits to the readme file
+This file has no points in any direction
